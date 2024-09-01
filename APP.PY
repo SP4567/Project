@@ -48,4 +48,4 @@ if st.button('Predict'):
     if classes == 1:
         st.header("Loan has been successfully given to the customer")
     else:
-        st.header("Bank failed in luring the customer")
+        st.header("Bank failed to give the loan to the customer")
