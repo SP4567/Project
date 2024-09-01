@@ -3,3 +3,6 @@ numpy~=1.26.4
 tensorflow~=2.17.0
 scipy
 matplotlib
+seaborn
+tensorflow
+keras
